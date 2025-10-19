@@ -1,0 +1,5 @@
+{
+  "name": "Skitzeria: Interactive Sketch Gallery",
+  "description": "A creative fullscreen web app displaying black-on-transparent sketches on a zoomable canvas with multiple display modes and an admin section for asset management.",
+  "requestFramePermissions": []
+}
